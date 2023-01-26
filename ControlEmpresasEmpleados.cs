@@ -18,8 +18,8 @@ namespace LINQ1
             listaEmpresas.Add(new Empresa { Id = 1, Nombre = "IAlpha" });
             listaEmpresas.Add(new Empresa { Id = 2, Nombre = "Udelar" });
             listaEmpleados.Add(new Empleado { Id = 1, Nombre = "Gonzalo", Cargo = "CEO", EmpresaId = 1, Salario = 3000 });
-            listaEmpleados.Add(new Empleado { Id = 2, Nombre = "JuanC", Cargo = "Coordinador", EmpresaId = 1, Salario = 3000 });
-            listaEmpleados.Add(new Empleado { Id = 3, Nombre = "JuanR", Cargo = "Desarrollador", EmpresaId = 1, Salario = 3000 });
+            listaEmpleados.Add(new Empleado { Id = 2, Nombre = "JuanC", Cargo = "Desarrollador", EmpresaId = 1, Salario = 3000 });
+            listaEmpleados.Add(new Empleado { Id = 3, Nombre = "JuanR", Cargo = "Coordinador", EmpresaId = 1, Salario = 3000 });
             listaEmpleados.Add(new Empleado { Id = 4, Nombre = "Daniel", Cargo = "Desarrollador", EmpresaId = 1, Salario = 3000 });
             listaEmpleados.Add(new Empleado { Id = 5, Nombre = "GonzaloT", Cargo = "CEO", EmpresaId = 2, Salario = 3000 });
         }
