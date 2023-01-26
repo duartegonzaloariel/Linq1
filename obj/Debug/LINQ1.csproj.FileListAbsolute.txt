@@ -1,0 +1,8 @@
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\2 ejerciciosCurso\LINQ1\bin\Debug\LINQ1.exe.config
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\2 ejerciciosCurso\LINQ1\bin\Debug\LINQ1.exe
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\2 ejerciciosCurso\LINQ1\bin\Debug\LINQ1.pdb
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\2 ejerciciosCurso\LINQ1\obj\Debug\LINQ1.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\2 ejerciciosCurso\LINQ1\obj\Debug\LINQ1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\2 ejerciciosCurso\LINQ1\obj\Debug\LINQ1.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\2 ejerciciosCurso\LINQ1\obj\Debug\LINQ1.exe
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\2 ejerciciosCurso\LINQ1\obj\Debug\LINQ1.pdb
