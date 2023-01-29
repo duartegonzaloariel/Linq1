@@ -13,14 +13,17 @@ namespace LINQ1
         static void Main(string[] args)
         {
             ControlEmpresasEmpleados ce = new ControlEmpresasEmpleados();
+            Console.WriteLine("Peces Gordos \n***************************");
             ce.getSeo("CEO");
             
             Console.WriteLine("");
+            Console.WriteLine("Plantilla \n***************************");
             ce.getEmpleadosOrdenados();
             Console.WriteLine("");
+            Console.WriteLine("Plantilla ordenada \n***************************");
             ce.getEmpleadosOrdenadosSegun();
             
-            Console.WriteLine("Ingrese la empresa");
+            Console.WriteLine("\nIngrese la empresa (entero 1 o 2)");
             string _Id = Console.ReadLine();
             try
             {
