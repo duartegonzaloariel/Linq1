@@ -41,7 +41,7 @@ namespace LINQ1
         }
         public void getEmpleadosOrdenadosSegun()
         {
-            IEnumerable<Empleado> empleados = from empleado in listaEmpleados orderby empleado.Nombre descending select empleado;
+            IEnumerable<Empleado> empleados = from empleado in listaEmpleados orderby empleado.Nombre select empleado;
             foreach (Empleado elemento in empleados)
             {
                 elemento.getDatosEmpleado();
