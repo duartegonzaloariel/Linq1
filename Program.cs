@@ -23,7 +23,7 @@ namespace LINQ1
             Console.WriteLine("Plantilla ordenada \n***************************");
             ce.getEmpleadosOrdenadosSegun();
             
-            Console.WriteLine("\nIngrese la empresa (entero 1 o 2)");
+            Console.WriteLine("\nIngrese la empresa (entero 1 a 3)");
             string _Id = Console.ReadLine();
             try
             {
