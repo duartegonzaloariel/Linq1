@@ -22,6 +22,7 @@ namespace LINQ1
             listaEmpleados.Add(new Empleado { Id = 3, Nombre = "JuanR", Cargo = "Coordinador", EmpresaId = 1, Salario = 3000 });
             listaEmpleados.Add(new Empleado { Id = 4, Nombre = "Daniel", Cargo = "Desarrollador", EmpresaId = 1, Salario = 3000 });
             listaEmpleados.Add(new Empleado { Id = 5, Nombre = "GonzaloT", Cargo = "CEO", EmpresaId = 2, Salario = 3000 });
+            listaEmpleados.Add(new Empleado { Id = 6, Nombre = "Leonardo", Cargo = "CEO", EmpresaId = 1, Salario = 3000 });
         }
         public void getSeo(string _Cargo)
         {
